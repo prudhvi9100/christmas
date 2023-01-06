@@ -1,0 +1,40 @@
+.bgimg{
+  background-image: url(https://img.freepik.com/free-photo/nice-christmas-background-white-background-with-copy-space_24972-1723.jpg?w=2000);
+    background-size: cover;
+     height: 30vh;
+     }
+     .heading{
+       color: white;
+       font-family: 'Roboto';
+       font-size: bold;
+       padding-top: 100px;
+     }
+     .bgimg2{
+       background-color: lightpink;
+       height: 70vh;
+     }
+
+     .imageres{
+       height: 80px;
+        width:  80px;
+     }
+
+     
+
+     .christmascard{
+       background-color: white;
+       width: 150px;
+       border-radius: 15px;
+       padding: 5px;
+       height: 150px;
+         text-align: center;
+      margin: 20px;
+  }
+
+
+  .chrisheading{
+    background-color: white;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: normal;
+  }
